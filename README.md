@@ -1,2 +1,1 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+A full-stack trading platform enabling real-time market data visualization, secure user authentication, and seamless trade management. Built with React.js, Node.js, Express.js, and MongoDB, and deployed via AWS Amplify for scalable, cloud-based access.
